@@ -5,7 +5,8 @@ A lightweight, responsive, and modern CSS framework that makes it easy to create
 You can install Purelap via CDN by adding the following code to the head of your HTML file:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purelap/purelap.min.css">```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purelap/purelap.min.css">
+```
 
 Alternatively, you can download the CSS files from GitHub and link to them in your HTML file.
 
@@ -15,7 +16,8 @@ Purelap includes a variety of CSS classes that you can use to style your web pag
 Here is an example of how you can use Purelap/PurelapCSS to create a simple button:
 
 ```html
-the code```
+EXAMPLE
+```
 
 ## Badges
 
