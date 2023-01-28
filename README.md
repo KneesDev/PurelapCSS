@@ -19,7 +19,7 @@ Here is an example of how you can use Purelap to create a simple button:
 <button class="btn-primary">Click me</button>
 ```
 
-There are many examples of Purelap compoments on this site.
+You can find many demonstrations of the components on [this site](https://secton.eu.org/purelapexamples).
 
 ## Badges
 
