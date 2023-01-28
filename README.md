@@ -1,5 +1,5 @@
 # Purelap
-A lightweight, responsive, and modern CSS framework that makes it easy to create beautiful and consistent web pages.
+A lightweight, responsive, and modern CSS framework that makes it easy to create consistent web pages.
 
 ## Installation
 You can install Purelap via CDN by adding the following code to the head of your HTML file:
