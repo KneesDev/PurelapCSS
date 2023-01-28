@@ -1,0 +1,236 @@
+body {
+    font-family: 'Roboto';
+    font-size: 16px;
+    background-color: #f2f3f4;
+    color: #2b2b2b;
+    scrollbar-width: none;
+}
+
+body::-webkit-scrollbar {
+    width: 0;
+    background-color: transparent;
+}
+
+body::-ms-overflow-style {
+    -ms-overflow-style: none;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #131516;
+}
+
+h1 {
+    font-size: 32px;
+    color: #2e3142;
+    font-weight: normal;
+}
+
+a {
+    transition: color 0.15s ease;
+    color: #3F51B5;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #303d91;
+}
+
+.scaled {
+    transform: scale(2);
+}
+
+.btn-primary {
+    background-color: #3F51B5;
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.1s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.btn-primary:hover {
+    background-color: #303d91;
+}
+
+.btn-primary:active {
+    background-color: #2b398f;
+}
+
+.btn-primary:disabled {
+    background-color: #2c3874;
+    cursor: not-allowed;
+}
+
+.btn-secondary {
+    background-color: snow;
+    border: none;
+    color: #131516;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: color 0.1s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.btn-secondary:hover {
+    color: #303d91;
+}
+
+.btn-secondary:active {
+    color: #2b398f;
+    background-color: #fcfcff;
+}
+
+.btn-secondary:disabled {
+    color: #5e5e5e;
+    cursor: not-allowed;
+}
+
+.btn-ghost {
+    background-color: transparent;
+    border: 1px solid #3F51B5;
+    color: #3F51B5;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.1s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.btn-ghost:hover {
+    border: none;
+    background-color: #303d91;
+    color: white;
+}
+
+.btn-ghost:active {
+    border: none;
+    background-color: #2b398f;
+    color: white;
+}
+
+.btn-ghost:disabled {
+    border: 1px solid #8497ff;
+    background-color: transparent;
+    color: #8497ff;
+    cursor: not-allowed;
+}
+
+.noselect {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 10px;
+    background: #e7e7e7;
+    outline: none;
+    opacity: 0.8;
+    margin: 12px;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    border-radius: 4px;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #3F51B5;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #3F51B5;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.alert {
+    padding: 18px;
+    border: 1px solid #8792cf;
+    border-radius: 6px;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    margin: 20px 25%;
+    background-color: #aeb4d4;
+    color: #3F51B5;
+}
+
+.alert strong {
+    font-weight: bold;
+}
+
+.textbox {
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 8px;
+    margin: 8px 8px;
+    font-size: 16px;
+    color: #2b2b2b;
+}
+
+.textbox::placeholder {
+    color: #ccc;
+}
+
+.textbox:hover {
+    border-color: #e0e0e0;
+}
+
+.textbox:active {
+    border-color: #ebebeb;
+}
+
+.textbox:disabled {
+    cursor: not-allowed;
+    border-color: #e0e0e0;
+}
