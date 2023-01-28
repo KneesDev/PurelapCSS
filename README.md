@@ -4,8 +4,14 @@ A lightweight, responsive, and modern CSS framework that makes it easy to create
 ## Installation
 You can install Purelap via CDN by adding the following code to the head of your HTML file:
 
+jsDelivr:
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purelap/purelap.min.css">
+```
+
+UNPKG:
+```html
+<link rel="stylesheet" href="https://unpkg.com/purelap/purelap.css>
 ```
 
 Alternatively, you can download the CSS files from GitHub and link to them in your HTML file.
