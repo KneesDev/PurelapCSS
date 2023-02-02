@@ -1,4 +1,4 @@
-# Purelap
+# PurelapCSS
 A lightweight, responsive, and modern CSS framework that makes it easy to create consistent web pages.
 
 ## Installation
