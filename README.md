@@ -25,7 +25,7 @@ Here is an example of how you can use Purelap to create a simple button:
 <button class="btn-primary">Click me</button>
 ```
 
-You can find many demonstrations of the components on [Compoments Library](Components-Library).
+You can find many demonstrations of the components on [Compoments Library](https://github.com/KneesDev/PurelapCSS/wiki/Components-Library).
 
 ## Badges
 
