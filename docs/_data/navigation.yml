@@ -1,0 +1,12 @@
+- title: Introduction
+  output: web
+  url: /
+- title: Getting Started
+  output: web
+  url: /getting-started/
+- title: Components
+  output: web
+  url: /components/
+- title: Classes
+  output: web
+  url: /classes/
