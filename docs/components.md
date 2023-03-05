@@ -9,9 +9,7 @@ permalink: /components/
 
 ## Buttons
 ### Primary Button
-{% raw %}
-<button class="btn-primary">Button</button>
-{% endraw %}
+![Primary Button](https://i.imgur.com/Fxll7m4.png)
 ```html
 <button class="btn-primary">Button</button>
 ```
