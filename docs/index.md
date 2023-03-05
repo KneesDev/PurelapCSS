@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: /
+---
+
 # Introduction
 
 PurelapCSS is a modern and powerful CSS framework that helps developers create beautiful websites quickly and efficiently. It offers a wide range of pre-designed UI components and styles.
