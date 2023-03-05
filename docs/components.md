@@ -3,11 +3,15 @@ title: Components
 permalink: /components/
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purelap/purelap.min.css">
+
 # Components
 
 ## Buttons
 ### Primary Button
-![Primary Button](https://i.imgur.com/Fxll7m4.png)
+{% raw %}
+<button class="btn-primary">Button</button>
+{% endraw %}
 ```html
 <button class="btn-primary">Button</button>
 ```
