@@ -1,3 +1,8 @@
+---
+title: Classes
+permalink: /classes/
+---
+
 # Classes
 
 ### scaled
