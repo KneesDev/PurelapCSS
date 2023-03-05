@@ -19,13 +19,7 @@ Alternatively, you can download the CSS files from GitHub and link to them in yo
 ## Usage
 Purelap includes a variety of CSS classes that you can use to style your web pages. You can also use the predefined CSS classes to create common UI elements such as buttons, forms, and tables.
 
-Here is an example of how you can use Purelap to create a simple button:
-
-```html
-<button class="btn-primary">Click me</button>
-```
-
-You can find a list of the components with their usage on [Compoments Library](https://github.com/KneesDev/PurelapCSS/wiki/Components-Library).
+You can find a list of the components and classes with their usage on [Purelap Docs](https://kneesdev.github.io/PurelapCSS).
 
 ## Badges
 
