@@ -1,4 +1,9 @@
-# Getting Started
+---
+title: Getting Started
+permalink: /getting-started/
+---
+
+# Getting Started with Purelap
 Purelap is easy to use and integrates seamlessly with sites.
 
 ## Installation
