@@ -14,7 +14,7 @@ You can install Purelap via CDN by adding the following code to the head of your
 <link rel="stylesheet" href="https://unpkg.com/purelap/purelap.css>
 ```
 
-Alternatively, you can download the CSS files from GitHub and link to them in your HTML file.
+Alternatively, you can download the CSS file from GitHub and link to them in your HTML file.
 
 ## Usage
 Purelap includes a variety of CSS classes that you can use to style your web pages. You can also use the predefined CSS classes to create common UI elements such as buttons, forms, and tables.
