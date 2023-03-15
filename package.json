@@ -1,7 +1,7 @@
 {
   "name": "purelap",
-  "version": "1.0.0",
-  "description": "A lightweight CSS framework",
+  "version": "1.0.3",
+  "description": "A lightweight CSS framework.",
   "files": [
     "purelap.css"
   ],
@@ -11,5 +11,5 @@
     "url": "git+https://github.com/KneesDev/PurelapCSS.git"
   },
   "author": "KneesDev",
-  "license": "ISC"
+  "license": "MIT"
 }
