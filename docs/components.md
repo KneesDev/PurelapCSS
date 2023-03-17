@@ -3,8 +3,6 @@ title: Components
 permalink: /components/
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purelap/purelap.min.css">
-
 # Components
 
 ## Buttons
