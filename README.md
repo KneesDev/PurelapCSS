@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/purelap.svg)](https://badge.fury.io/js/purelap)
+[![GitHub issues](https://img.shields.io/github/issues/KneesDev/PurelapCSS)](https://github.com/KneesDev/PurelapCSS/issues)
+
 # PurelapCSS
 A lightweight, responsive, and modern CSS framework that makes it easy to create consistent web pages.
 
@@ -20,8 +23,3 @@ Alternatively, you can download the CSS file from this GitHub repository and lin
 Purelap includes a variety of CSS classes that you can use to style your web pages. You can also use the predefined CSS classes to create common UI elements such as buttons or sliders.
 
 You can find a list of the components and classes with their usage on [Purelap Docs](https://kneesdev.github.io/PurelapCSS).
-
-## Badges
-
-[![npm version](https://badge.fury.io/js/purelap.svg)](https://badge.fury.io/js/purelap)
-[![GitHub issues](https://img.shields.io/github/issues/KneesDev/PurelapCSS)](https://github.com/KneesDev/PurelapCSS/issues)
